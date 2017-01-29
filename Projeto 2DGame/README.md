@@ -13,12 +13,12 @@ missão de campo para buscar ingredientes.
   - Desviar dos objetos pontiagudos ou cortantes, utilizar algumas plataforma magica de terra para auxiliar na coleta de material para o antídoto.
   
 
-Características:
+##Características:
   - Game De Aventura Plataforma.
   - Suspense,Ação,Aventura
   - Arquivo Beta0.1
 
-License
+##License
 ----
 
 MIT
