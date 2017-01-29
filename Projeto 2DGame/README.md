@@ -2,9 +2,9 @@
 # GreenVilly
 GreenVilly é um Game2D Plus contemporaneo, baseado na historia do jovem aventureiro John Green.
 
-## John Green 
-         John é um renomado Cientista no ramo da Ciencias Biologicas do Reino sua pincipal tarefa era aprender mais sobre a Toxicologia, em seres vivos, apos muitos anos em laboratorio John, resolver volta para CoternCitty onde mora seus pais mas ao chegar descobre que a cidade vizinha esta sobrendo um surto de Gripe Asiatica.
-        Para ajudar os Cidadões de MeryCitty a princessa  determina que ele  desenvolva antídoto, sendo assim ele vai em sua primeira Missão de Campo.
+## John Green
+         - John é um renomado Cientista no ramo da Ciencias Biologicas do Reino sua pincipal tarefa era aprender mais sobre a Toxicologia, em seres vivos, apos muitos anos em laboratorio John, resolve volta para CoternCitty onde mora seus pais mas ao chegar descobre que a cidade vizinha esta sobrendo um surto de Gripe Espanhola.
+        - Para ajudar os Cidadões de MeryCitty a princessa  determina que ele desenvolva o antídoto, sendo assim ele vai em sua primeira missão de campo para buscar ingredientes .
 
 
 ## Game Play
